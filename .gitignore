@@ -1,0 +1,16 @@
+# Django-specific
+*.pyc
+__pycache__/
+db.sqlite3
+
+#migrations
+migrations/
+
+# Virtual environment
+venv/
+env/
+
+# Django secret settings
+.env
+
+credential.txt
