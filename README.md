@@ -1,8 +1,7 @@
 
 # TrackFlow- CRM Application
 
-CRM Application
-A web-based Customer Relationship Management (CRM) platform built with Django, Python, and MySQL. This application provides an efficient way to manage customer-related data with user authentication and full CRUD operations support.
+TrackFlow-CRM is a web-based Customer Relationship Management (CRM) platform built with Django, Python, and MySQL. This application provides an efficient way to manage customer-related data with user authentication and full CRUD operations support.
 
 ## Features
 
