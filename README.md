@@ -68,8 +68,13 @@ source crm_env/bin/activate
 # For Windows:
 crm_env\Scripts\activate
 ```
+3. Install Dependencies
 
-3. Configure database settings in `settings.py`
+```bash
+pip install -r requirements.txt
+```
+
+4. Configure database settings in `settings.py`
 
 ```bash
 DATABASES = {
@@ -84,19 +89,19 @@ DATABASES = {
 }
 ```
 
-4. Run Migrations
+5. Run Migrations
 
 ```bash
 python manage.py makemigrations
 python manage.py migrate
 ```
 
-5. Start Development server
+6. Start Development server
 ```bash
 python manage.py runserver
 ```
 
-6. Visit `http://127.0.0.1:8000/` in your browser.
+7. Visit `http://127.0.0.1:8000/` in your browser.
 
 
 

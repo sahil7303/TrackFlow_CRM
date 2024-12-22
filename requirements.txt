@@ -1,0 +1,5 @@
+asgiref==3.8.1
+Django==5.1.4
+mysql-connector-python @ file:///home/conda/feedstock_root/build_artifacts/mysql-connector-python_1725367415403/work/mysql-connector-python
+mysqlclient @ file:///home/conda/feedstock_root/build_artifacts/mysqlclient_1731700293788/work
+sqlparse==0.5.3
